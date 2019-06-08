@@ -9,6 +9,5 @@
     # Send sample request
     curl -X POST -F image=@cat.jpg 'http://localhost:5000/predict'
     
-# test2
 
     
